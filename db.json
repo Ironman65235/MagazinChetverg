@@ -1,4 +1,11 @@
 {
   "users":[
+    {
+      "id":0,
+      "name":"Polina",
+      "surname":"Min",
+      "photo_url":"https://avatars.githubusercontent.com/u/151849762?v=4",
+      "balance":2500
+    }
   ]
 }
