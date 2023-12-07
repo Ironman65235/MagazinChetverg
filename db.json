@@ -1,5 +1,6 @@
 {
   "users":[
+<<<<<<< HEAD
     {
       "id":0,
       "name":"Polina",
@@ -7,5 +8,15 @@
       "photo_url":"https://avatars.githubusercontent.com/u/151849762?v=4",
       "balance":2500
     }
+=======
+	{
+	   "id":1,
+	   "name": "SergeyK",
+	   "surname": "Belarusov",
+	   "photo_url":"https://avatars.githubusercontent.com/u/119721508?v=4",
+	   "balance":1500
+	}
+
+>>>>>>> 54ed8009ffdaffdc0b6ad016ae4d80268a2d1305
   ]
 }
