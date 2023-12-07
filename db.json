@@ -1,4 +1,11 @@
 {
   "users":[
+{
+"id":2,
+"name": "Igor",
+"surname": "Thug",
+"photo_url":"https://avatars.githubusercontent.com/u/151849959?v=4",
+"balance":52
+}
   ]
 }
