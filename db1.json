@@ -1,4 +1,12 @@
 {
   "users":[
+    {
+    "id":1,
+    "name":"Sergey",
+    "surname":"Belarusov",
+    "photo_url":"https://avatars.githubusercontent.com/u/119721508?v=4",
+    "balance":4500
+    }
+
   ]
 }
